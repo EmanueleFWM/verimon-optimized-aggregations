@@ -1,0 +1,22 @@
+xs		ys		ts		events		ivl_start	ivl_end		agg_type	temporal_type	formula_type	commands
+10000 	20 		10000	1			2000		8000		MED			SINCE			0				verimon monpoly
+10000 	20 		10000	1			2000		8000		MIN			SINCE			0				verimon monpoly
+10000 	20 		10000	1			2000		8000		SUM			SINCE			0				verimon monpoly
+10000 	20 		20000	1			4000		16000		MED			SINCE			0				verimon monpoly
+10000 	20 		20000	1			4000		16000		MIN			SINCE			0				verimon monpoly
+10000 	20 		20000	1			4000		16000		SUM			SINCE			0				verimon monpoly
+10000 	20 		50000	1			10000		40000		MED			SINCE			0				verimon monpoly
+10000 	20 		50000	1			10000		40000		MIN			SINCE			0				verimon monpoly
+10000 	20 		50000	1			10000		40000		SUM			SINCE			0				verimon monpoly
+10000 	20 		100000	1			20000		80000		MED			SINCE			0				verimon monpoly
+10000 	20 		100000	1			20000		80000		MIN			SINCE			0				verimon monpoly
+10000 	20 		100000	1			20000		80000		SUM			SINCE			0				verimon monpoly
+10000 	20 		200000	1			40000		160000		MED			SINCE			0				verimon monpoly
+10000 	20 		200000	1			40000		160000		MIN			SINCE			0				verimon monpoly
+10000 	20 		200000	1			40000		160000		SUM			SINCE			0				verimon monpoly
+10000 	20 		500000	1			100000		400000		MED			SINCE			0				verimon monpoly
+10000 	20 		500000	1			100000		400000		MIN			SINCE			0				verimon monpoly
+10000 	20 		500000	1			100000		400000		SUM			SINCE			0				verimon monpoly
+10000	20 		100000	1			200000		800000		MED			SINCE			0				verimon monpoly
+10000	20 		100000	1			200000		800000		MIN			SINCE			0				verimon monpoly
+10000	20 		100000	1			200000		800000		SUM			SINCE			0				verimon monpoly

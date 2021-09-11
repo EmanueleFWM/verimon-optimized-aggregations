@@ -1,0 +1,7 @@
+xs		ys		ts		events		ivl_start	ivl_end		agg_type	temporal_type	formula_type	commands
+10000 	20 		1000	1			200			800			MED			UNTIL			0				verimon_old verimon monpoly
+10000 	20 		1000	1			200			800			MIN			UNTIL			0				verimon_old verimon monpoly
+10000 	20 		1000	1			200			800			SUM			UNTIL			0				verimon_old verimon monpoly
+10000 	20 		2000	1			400			1600		MED			UNTIL			0				verimon_old verimon monpoly
+10000 	20 		2000	1			400			1600		MIN			UNTIL			0				verimon_old verimon monpoly
+10000 	20 		2000	1			400			1600		SUM			UNTIL			0				verimon_old verimon monpoly

@@ -1,0 +1,7 @@
+digraph G {
+  0 [shape=octagon, color=red, label="0 : !(Exists x1 . (x1 = ''24''))"]
+  1 [shape=box, label="1 : Exists x1 . (x1 = ''24'')"]
+  2 [shape=box, label="2 : x1 = ''24''"]
+  1 -> 2
+  0 -> 1
+}
